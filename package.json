@@ -4,6 +4,7 @@
   "description": "Api para consultar dados da NFCe na receita federal",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
